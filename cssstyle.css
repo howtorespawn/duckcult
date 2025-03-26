@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@600&family=Kablammo&family=Raleway:wght@800&display=swap');
+.home{
+    -webkit-user-drag: none;
+    font-family: 'raleway';
+    font-size: 30px;
+    color:rgb(247, 210, 1);
+    text-decoration:none;
+    padding-left:8px;
+    padding-right: 8px;
+    margin:auto;
+    border: 3px solid;
+    border-radius: 10px;
+    border-color: aliceblue;
+}
+.home:hover{
+    color: black;
+    background-image:url(https://cdn.pixabay.com/photo/2021/04/09/10/10/duck-6163981_1280.jpg);
+    background-size: cover;
+}
+.home:active{
+    color:black;
+}
+.raleway{
+    font-family: Raleway;
+    font-size: 300%;
+    text-align: center;
+}
+button
+{
+  width: 100px;
+  height: 50px;
+  border: 1 solid white;
+  background: white;
+  color: black;
+  transition: 0.3s all ease;
+}
+button:hover
+{
+  transform: scale(1.1);
+}
+button:active
+{
+  background: grey;
+}
+select{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+img{
+    -webkit-user-drag: none;
+}
+button{
+    -webkit-user-drag: none;
+}
+hr{
+    height: 6px;
+    background-color: black;
+    border-color: black;
+}
+p{
+    font-size: 30px;
+    text-align: center;
+}
+.question{
+    color: rgb(218, 59, 1);
+}
+.cc{
+    background-color: black;
+    margin:auto;
+    padding: 5px;
+    color: whitesmoke;
+}
+.forum{
+    background-image:url(https://cdn.discordapp.com/attachments/1121035669251301419/1121611499090223115/istockphoto-1446929530-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    outline: 5px;
+    outline-color: rgb(0, 0, 0);
+    outline-style: solid;
+    margin: 20px;
+}
+.pad{
+    padding: 15px;
+}
+h2{
+    text-align: center;
+    padding-bottom: 15px;
+}
+.mcqs {
+    padding: 5px;
+}
+.imp{
+    color: rgb(218, 59, 1);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 17px;
+    text-align: center;
+    padding: 5px;
+}
+.Click{
+    background-image:url(https://i.natgeofe.com/k/327b01e8-be2e-4694-9ae9-ae7837bd8aea/mallard-male-swimming_16x9.jpg);
+    border: none;
+    color: rgb(255, 255, 255);
+
+    padding: 100px;
+    text-align: center;
+    font-size: 16px;
+}
+.Click2{
+    background-image:url(https://i.natgeofe.com/k/327b01e8-be2e-4694-9ae9-ae7837bd8aea/mallard-male-swimming_16x9.jpg);
+    border: none;
+    color: rgb(255, 255, 255);
+
+    padding: 100px;
+    text-align: center;
+    font-size: 16px;
+}
+.Click:hover{
+    opacity: 0%;
+}
+.Click2:active{
+    margin-left: 300px;
+}
+::-webkit-scrollbar{
+    width: 7px;
+}
+::-webkit-scrollbar-thumb {
+    background: yellow; 
+}
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(236, 201, 2); 
+}
+::-webkit-scrollbar-track {
+    background: rgb(0, 0, 0); 
+}
+.pst{
+    color: rgb(0, 89, 255);
+    font-family: Belanosima;
+}
+.imgcen{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.imgarmy{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.form-select{
+    margin: auto;
+
+}
+hr{
+    color: white;
+    opacity: 100%;
+
+}
+a{
+    -webkit-user-drag: none;
+}
